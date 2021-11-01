@@ -1,3 +1,3 @@
-# special_repo
+# Special_Repo
 
 This source code will help you to generate a good and professional interface for a person who visits your gaithub account...
